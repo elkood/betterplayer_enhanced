@@ -1,3 +1,12 @@
+## 1.0.0
+* 🔥 **MAJOR UPDATE** - AndroidX Media3 Migration
+* ✅ Migrated from ExoPlayer 2.19.1 to AndroidX Media3 1.5.0
+* ✅ Fixed Flutter 3.27+ compatibility (replaced deprecated `hashValues` with `Object.hash`)
+* ✅ Updated Android build tools: AGP 8.6.0, Kotlin 2.1.0, Gradle 8.9.0
+* ✅ Resolved all Jetifier warnings and build compatibility issues
+* ✅ Improved stability and performance
+* 🙏 Full credit to original creator [jhomlala](https://github.com/jhomlala)
+
 ## 0.0.84
 * [BREAKING_CHANGE] Updated min. Flutter version to 3.3.0 and min. Dart version to 3.0.0.
 * Recreated example project.
